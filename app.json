@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "Weather-app clone coding from Nomad Coders",
+    "githubUrl": "https://github.com/seungjun-dev/weather-app"
   }
 }
